@@ -1,0 +1,20 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width:100%;
+    margin:0;
+    font-size:25px;
+}
+
+canvas{
+    border:5px solid black;
+    border-radius:5px;
+    box-shadow:7px 7px 7px gray;
+}
+
+#status, #status2, #playing{
+    width:15%;
+    font-size:15px;
+}
